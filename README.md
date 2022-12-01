@@ -1,4 +1,4 @@
-# CommonAttacksGIT
+# CommonAttacks
 
 ## Ataque de fuerza bruta
 
