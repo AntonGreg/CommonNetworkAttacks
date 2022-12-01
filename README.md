@@ -10,6 +10,10 @@ Un **ataque de fuerza bruta** es un método de prueba y error utilizado para dec
 
 Afecta principalmente a las **contraseñas de los usuarios**, por lo que se vería gravemente comprometida la privacidad de los mismos ya que estos ataques suelen hacerlos usuarios no autorizados para obtener información.
 
+## ¿Cómo prevenir?
+
+
+
 
 
 # Envenenamiento de DNS
@@ -23,3 +27,6 @@ El envenenamiento de caché de DNS consiste en introducir información falsa en 
 ## ¿A qué afecta?
 
 En este ataque, un pirata informático falsifica la información **que** recibe su ordenador cuando le pide la dirección IP de un sitio web. Esto puede hacer **que** su ordenador acceda a un sitio equivocado o incluso **que** sea redirigido a un sitio malicioso. 
+
+## ¿Cómo prevenir?
+
